@@ -1,0 +1,32 @@
+body {
+  background-image: url("./cloud.jpg");
+}
+
+.satu {
+background-image: url("./avocado.jpg");
+background-repeat: repeat-y;
+background-color: white;
+width: 700px;
+height: 365px;
+overflow: scroll;
+}
+
+p {
+  color: blue;
+  text-align: right;
+}
+
+.dua {
+  color: green;
+  text-align: left;
+}
+
+.tiga {
+  color: red;
+  text-align: right;
+}
+
+* {
+  font-size: 18px;
+  font-weight: bold;
+}
